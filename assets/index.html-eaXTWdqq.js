@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as a,c as o,b as e,e as r}from"./app-gg--S_zj.js";const c={},n=e("h1",{id:"教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#教程","aria-hidden":"true"},"#"),r(" 教程")],-1),s=[n];function _(d,i){return a(),o("div",null,s)}const f=t(c,[["render",_],["__file","index.html.vue"]]);export{f as default};
